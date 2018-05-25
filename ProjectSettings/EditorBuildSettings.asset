@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/Men\xF9.unity"
+    guid: 471fd03cdbe14b2408cb601b71fdc848
+  - enabled: 1
+    path: Assets/Scenes/Spectrum.unity
+    guid: 1f9ec7e3e5636584aac6c4883e1cce7d

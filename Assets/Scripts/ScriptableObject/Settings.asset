@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b73d9da40931da43be4dc3c8147388a, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  SpectrumType: 0
+  AnalyzerType: 1
+  firstColor: {r: 0, g: 0.8956271, b: 0, a: 1}
+  secondColor: {r: 0, g: 0, b: 1, a: 1}
+  objectToSpawn: {fileID: 1073612882659652, guid: ba88820e37c81b847972b3d4f664a57b,
+    type: 2}
+  StartSize: 1
+  SizeMultiplayer: 2
